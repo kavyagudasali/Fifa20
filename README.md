@@ -1,4 +1,4 @@
-# PRCP-1004: FIFA 20 Player Analysis
+FIFA 20 Player Analysis
 
 This project analyzes the attributes of football players in the FIFA 20 dataset to explore player skills, cluster players based on their attributes, and answer specific questions about player demographics, performance, and salaries. The project also includes a comparison of multiple models and a discussion of the challenges faced during analysis.
 
