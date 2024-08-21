@@ -1,4 +1,4 @@
-FIFA 20 Player Analysis
+<h1>FIFA 20 Player Analysis</h1>
 
 This project analyzes the attributes of football players in the FIFA 20 dataset to explore player skills, cluster players based on their attributes, and answer specific questions about player demographics, performance, and salaries. The project also includes a comparison of multiple models and a discussion of the challenges faced during analysis.
 
